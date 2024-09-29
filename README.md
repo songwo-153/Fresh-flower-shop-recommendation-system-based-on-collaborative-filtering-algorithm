@@ -3,6 +3,9 @@
 #### 介绍
 基于协同过滤算法的鲜花店推荐系统的设计与实现（使用Springboot框架+Mysql数据库+Vue框架+协同过滤算法）
 
+**源码获取**：[基于协同过滤鲜花店推荐系统源码.zip](https://github.com/user-attachments/files/17180203/default.zip)
+
+
 **开发环境** 
 开发语言：Java
 框架：springboot
