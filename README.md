@@ -9,11 +9,11 @@
 开发语言：Java
 框架：springboot
 JDK版本：JDK1.8
-服务器：tomcat7
-数据库：mysql 5.7（一定要5.7版本）
+数据库：mysql 5.7
 数据库工具：Navicat11
-开发软件：eclipse/myeclipse/idea
-Maven包：Maven3.3.9
+开发软件：idea
+
+**推荐算法：协同过滤算法**
 
 **项目介绍** 
 后端框架采用java语言的Springboot+Mybatis
@@ -28,6 +28,8 @@ Maven包：Maven3.3.9
 **项目开发结构** 
 ![项目结构](https://github.com/user-attachments/assets/26c7927c-45e8-433c-bc55-aa8e52d14c24)
 
+**推荐功能代码展示** 
+![推荐算法](https://github.com/user-attachments/assets/51bcc755-77c3-4ffe-a8dd-11b2a5f71c2b)
 
 **实现功能部分如下** 
 **用户端：** 
